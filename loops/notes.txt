@@ -1,0 +1,6 @@
+The basic str of loop:  for var(i) in range(start,stop,step):  code
+
+**here the start point is considered but the stop point is not considered.
+**step represents the increment or derement
+        -increment by positive sign  (1,2,......int);
+        -decrement by negative sign (-int)(-1,-2,.....)

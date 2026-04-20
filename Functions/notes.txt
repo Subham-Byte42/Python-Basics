@@ -1,0 +1,17 @@
+#basic syntax
+
+def function_name(parameters):
+    # block of code
+    return value
+
+**some notes points
+-Definition (def)   //defining a function using the keyword def is mandatory
+        You define a function using the keyword def.
+-Function Name
+        Choose any valid name (like greet, add, etc.)
+-Parameters (optional)
+        Inputs passed to the function.
+-Function Body
+        The code inside the function (must be indented).
+-Return (optional)
+        Sends result back to where the function was called.    
